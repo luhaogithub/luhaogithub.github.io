@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+北京校园移动，无限流量，资费超低!
 
 ### More Information
 
